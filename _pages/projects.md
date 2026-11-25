@@ -11,6 +11,8 @@ nav_order: 1
 
 Os estudos abaixo usam somente materiais já públicos no repositório [Bootcamp_Open_Hardware](https://github.com/JVSDutra/Bootcamp_Open_Hardware), um fork do projeto [Open_Hardware, do FabLab Casa Firjan](https://github.com/fablabcasafirjan/Open_Hardware). O crédito ao FabLab e à comunidade de hardware aberto se aplica ao acervo de origem; não reivindico autoria exclusiva dos projetos. Os registros disponíveis são breves, então cada caso separa os artefatos observáveis do que ainda não está documentado.
 
+<a id="microscopio"></a>
+
 ## Microscópio DIY automatizado
 
 **Objetivo** — Explorar uma montagem para observação microscópica com estrutura cortada a laser e captura por câmera.
@@ -21,6 +23,8 @@ Os estudos abaixo usam somente materiais já públicos no repositório [Bootcamp
 
 **Limites** — O README lista componentes e imagens, mas não descreve protocolo de calibração, desempenho óptico ou validação quantitativa. Não apresento esses pontos como resultados medidos.
 
+<a id="co2"></a>
+
 ## Detector de CO₂ com telemetria
 
 **Objetivo** — Reunir componentes de um detector didático de CO₂ com visualização local e envio de dados.
@@ -30,6 +34,8 @@ Os estudos abaixo usam somente materiais já públicos no repositório [Bootcamp
 **Artefatos públicos** — [README, imagens e modelos](https://github.com/JVSDutra/Bootcamp_Open_Hardware/tree/main/CO2_Detector), [firmware](https://github.com/JVSDutra/Bootcamp_Open_Hardware/blob/main/CO2_Detector/Sensor_CO2_comDisplay_comTelegram/Sensor_CO2_comDisplay_comTelegram.ino) e [modelo do gabinete](https://github.com/JVSDutra/Bootcamp_Open_Hardware/tree/main/CO2_Detector).
 
 **Limites** — A documentação não informa calibração, incerteza, comparação com instrumento de referência ou séries de medição. O projeto é apresentado como protótipo de hardware aberto, sem alegação de desempenho metrológico.
+
+<a id="turbidimetro"></a>
 
 ## Turbidímetro V1
 
