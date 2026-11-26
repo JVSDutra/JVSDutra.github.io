@@ -65,4 +65,4 @@ I work on product definition, electronics prototyping and embedded systems, conn
 
 ---
 
-Contato: [GitHub](https://github.com/JVSDutra) · links profissionais serão adicionados após confirmar os endereços corretos.
+Contato: [Instagram](https://www.instagram.com/bonedaunimedjoao/) · [LinkedIn](https://www.linkedin.com/in/jvsoudu/) · [GitHub](https://github.com/JVSDutra).
